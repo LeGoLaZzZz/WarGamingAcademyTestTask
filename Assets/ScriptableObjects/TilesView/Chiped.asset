@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 760b89c7b5f9467ca884a9767e8a025a, type: 3}
+  m_Name: Chiped
+  m_EditorClassIdentifier: 
+  tileViewPrefab: {fileID: 5474362107171475173, guid: 38ce28c063a36574cb0c1d1c303ae029,
+    type: 3}
+  tileStateType: 2
